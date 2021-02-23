@@ -1,1 +1,13 @@
-theme: jekyll-theme-cayman
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>Zedaeth Profile</title>
+      <style>
+        background-color: black;
+        color: blue;
+      </style>
+    </head>
+    <body>
+      <p>Hello World!</p>
+    </body>
+  </html>
